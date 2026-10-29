@@ -3,6 +3,9 @@ import numpy as np
 import pandas as pd
 from sklearn.linear_model import LinearRegression
 
+#Cambio para la rama dev
+
+
 datos = {
     "HorasEstudio": [1, 2, 3, 4, 5, 6, 7, 8],
     "Calificacion": [55, 60, 65, 70, 75, 80, 85, 90],
